@@ -32,7 +32,7 @@
 <b>Lets connect</b>
 <p align="center">
 
-<a href="linkedin.com/in/ajay-kachhala/">
+<a href="https://www.linkedin.com/in/ajay-kachhala/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
